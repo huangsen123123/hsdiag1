@@ -1,1 +1,4 @@
-# hsdiag1
+# data
+Fulladder
+Polybox
+ISCAS-85
